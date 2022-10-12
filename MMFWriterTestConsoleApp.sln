@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MMFWriterTestConsoleApp", "MMFWriterTestConsoleApp\MMFWriterTestConsoleApp.csproj", "{EDFBA1F3-AF4F-4161-9FB6-52B4C46F827C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MMFMessagesManager", "MMFMessagesManager\MMFMessagesManager.csproj", "{0FD5AF71-9D60-4F0A-B49C-5C9106F52C9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDFBA1F3-AF4F-4161-9FB6-52B4C46F827C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDFBA1F3-AF4F-4161-9FB6-52B4C46F827C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDFBA1F3-AF4F-4161-9FB6-52B4C46F827C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDFBA1F3-AF4F-4161-9FB6-52B4C46F827C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FD5AF71-9D60-4F0A-B49C-5C9106F52C9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FD5AF71-9D60-4F0A-B49C-5C9106F52C9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FD5AF71-9D60-4F0A-B49C-5C9106F52C9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FD5AF71-9D60-4F0A-B49C-5C9106F52C9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {754BA0C3-E571-4668-92CC-25B5E95C6C32}
+	EndGlobalSection
+EndGlobal

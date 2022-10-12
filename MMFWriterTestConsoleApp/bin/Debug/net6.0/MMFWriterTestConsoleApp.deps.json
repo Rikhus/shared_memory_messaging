@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MMFWriterTestConsoleApp/1.0.0": {
+        "dependencies": {
+          "MMFMessagesManager": "1.0.0"
+        },
+        "runtime": {
+          "MMFWriterTestConsoleApp.dll": {}
+        }
+      },
+      "MMFMessagesManager/1.0.0": {
+        "runtime": {
+          "MMFMessagesManager.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MMFWriterTestConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MMFMessagesManager/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
